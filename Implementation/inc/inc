@@ -1,1 +1,11 @@
 
+
+        Low Level requirements
+        
+ | Low Level Requirements | Description 
+ | ----- | ----- | 
+ | LR1 | Check the person is available or not
+ | LR2 | Select from Menu
+ | LR3 | Checks the temperature
+ | LR4 | Display the value of temperature of the seat
+ 
